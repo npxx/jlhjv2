@@ -1,7 +1,7 @@
 ##### jlhjv2
 # John Lemon but Juicy!
 
-Submission by Nevish Pathe, 220757
+Submission by Nevish Pathe
 
 Windows Build *&* Gameplay at : https://drive.google.com/drive/folders/1Vd_9a86Mn0fTyBeSNKFz0wsagqNGH3Ib?usp=share_link
 
